@@ -1,0 +1,24 @@
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\bin\Debug\net6.0\ClaySmartLockSolution.Core.deps.json
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\bin\Debug\net6.0\ClaySmartLockSolution.Core.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\bin\Debug\net6.0\ClaySmartLockSolution.Core.pdb
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.csproj.AssemblyReference.cache
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.AssemblyInfoInputs.cache
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.AssemblyInfo.cs
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.csproj.CoreCompileInputs.cache
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\refint\ClaySmartLockSolution.Core.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.pdb
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ref\ClaySmartLockSolution.Core.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\bin\Debug\net6.0\ClaySmartLockSolution.Core.deps.json
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\bin\Debug\net6.0\ClaySmartLockSolution.Core.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\bin\Debug\net6.0\ClaySmartLockSolution.Core.pdb
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.csproj.AssemblyReference.cache
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.AssemblyInfoInputs.cache
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.AssemblyInfo.cs
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.csproj.CoreCompileInputs.cache
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\refint\ClaySmartLockSolution.Core.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ClaySmartLockSolution.Core.pdb
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Core\obj\Debug\net6.0\ref\ClaySmartLockSolution.Core.dll

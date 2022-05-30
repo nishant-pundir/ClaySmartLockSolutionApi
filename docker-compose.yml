@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+
+  dbhost:
+    image: "mcr.microsoft.com/mssql/server:2017-latest"
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Test@2468@Pa55Word
+
+  claysmartlocksolution.api:
+    image: ${DOCKER_REGISTRY-}claysmartlocksolutionapi
+    build:
+      context: .
+      dockerfile: ClaySmartLockSolution.API/Dockerfile
+
+    depends_on:
+      - dbhost

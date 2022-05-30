@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1F3yqLhGJrQdwTNOIJ9yCJS9Iaq4EoU58OJqe33C4ix6VOzxHsIVXI+fizrqoOK8DpqKcdfi3yjRcK92w/ziQ==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\ClaySmartLockSolution\\ClaySmartLockSolution.Application\\ClaySmartLockSolution.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

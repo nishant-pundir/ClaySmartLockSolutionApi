@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  claysmartlocksolution.api:
+    container_name: ClaySmartLockSolution.API
+    build:
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "ClaySmartLockSolution.API"
+    volumes:
+      - C:\Users\Administrator\vsdbg\vs2017u5:/remote_debugger:rw
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath /root/.nuget/packages  \"/app/ClaySmartLockSolution.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+      com.microsoft.visual-studio.project-name: "ClaySmartLockSolution.API"
+    tty: true

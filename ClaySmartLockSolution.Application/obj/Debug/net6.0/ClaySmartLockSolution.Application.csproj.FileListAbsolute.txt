@@ -1,0 +1,30 @@
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Application.deps.json
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Application.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Application.pdb
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Core.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Core.pdb
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.csproj.AssemblyReference.cache
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.AssemblyInfoInputs.cache
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.AssemblyInfo.cs
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.csproj.CoreCompileInputs.cache
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.csproj.CopyComplete
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\refint\ClaySmartLockSolution.Application.dll
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.pdb
+D:\Test GIT Projects\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ref\ClaySmartLockSolution.Application.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Application.deps.json
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Application.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Application.pdb
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Core.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\bin\Debug\net6.0\ClaySmartLockSolution.Core.pdb
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.csproj.AssemblyReference.cache
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.AssemblyInfoInputs.cache
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.AssemblyInfo.cs
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.csproj.CoreCompileInputs.cache
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.csproj.CopyComplete
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\refint\ClaySmartLockSolution.Application.dll
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ClaySmartLockSolution.Application.pdb
+F:\Work\ClaySmartLockSolution\ClaySmartLockSolution.Application\obj\Debug\net6.0\ref\ClaySmartLockSolution.Application.dll

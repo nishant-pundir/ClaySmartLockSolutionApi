@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5RwYpLYTknno6vDFdhvXMA8ElUzQGXSaJHEZIKfxBLo=",
+  "Source": "ClaySmartLockSolution.API",
+  "BasePath": "_content/ClaySmartLockSolution.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
